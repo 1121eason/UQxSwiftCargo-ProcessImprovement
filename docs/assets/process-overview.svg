@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="870" viewBox="0 0 1440 870"><defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10" fill="none" stroke="#5c7995" stroke-width="1.5"/></marker></defs>
+<rect width="1440" height="870" fill="#f4f7fb"/>
+<rect width="1440" height="240" fill="#132e46"/>
+<text x="60" y="56" fill="#74d6cb" font-family="Arial, sans-serif" font-size="17" font-weight="700">BUSINESS PROCESS PORTFOLIO / SAP SIGNAVIO</text>
+<text x="60" y="117" fill="white" font-family="Arial, sans-serif" font-size="42" font-weight="700">From shipment issues to accountable resolution</text>
+<text x="60" y="162" fill="#d0dfeb" font-family="Arial, sans-serif" font-size="23" font-weight="400">Map responsibilities. Make exceptions visible. Design improvements that can be measured.</text>
+<text x="60" y="210" fill="#a8bed0" font-family="Arial, sans-serif" font-size="20" font-weight="400">4 participant pools   /   9 diagrams   /   64 tasks   /   24 message flows</text>
+<rect x="60" y="284" width="315" height="196" rx="16" fill="white" stroke="#d4dfe9"/>
+<text x="82" y="324" fill="#14877f" font-family="Arial, sans-serif" font-size="22" font-weight="700">01</text>
+<text x="82" y="369" fill="#15344d" font-family="Arial, sans-serif" font-size="21" font-weight="700">INTAKE &amp; CONFIRM</text>
+<text x="82" y="411" fill="#15344d" font-family="Arial, sans-serif" font-size="19" font-weight="400">Capture the issue</text>
+<text x="82" y="443" fill="#526b80" font-family="Arial, sans-serif" font-size="19" font-weight="400">Confirm client details</text>
+<path d="M378 382H393" stroke="#5c7995" stroke-width="2" marker-end="url(#a)"/>
+<rect x="395" y="284" width="315" height="196" rx="16" fill="white" stroke="#d4dfe9"/>
+<text x="417" y="324" fill="#14877f" font-family="Arial, sans-serif" font-size="22" font-weight="700">02</text>
+<text x="417" y="369" fill="#15344d" font-family="Arial, sans-serif" font-size="21" font-weight="700">ASSESS &amp; ROUTE</text>
+<text x="417" y="411" fill="#15344d" font-family="Arial, sans-serif" font-size="19" font-weight="400">Set priority and ownership</text>
+<text x="417" y="443" fill="#526b80" font-family="Arial, sans-serif" font-size="19" font-weight="400">Standard / high / critical</text>
+<path d="M713 382H728" stroke="#5c7995" stroke-width="2" marker-end="url(#a)"/>
+<rect x="730" y="284" width="315" height="196" rx="16" fill="white" stroke="#d4dfe9"/>
+<text x="752" y="324" fill="#14877f" font-family="Arial, sans-serif" font-size="22" font-weight="700">03</text>
+<text x="752" y="369" fill="#15344d" font-family="Arial, sans-serif" font-size="21" font-weight="700">RESOLVE &amp; VERIFY</text>
+<text x="752" y="411" fill="#15344d" font-family="Arial, sans-serif" font-size="19" font-weight="400">Coordinate recovery</text>
+<text x="752" y="443" fill="#526b80" font-family="Arial, sans-serif" font-size="19" font-weight="400">Inspect and confirm</text>
+<path d="M1048 382H1063" stroke="#5c7995" stroke-width="2" marker-end="url(#a)"/>
+<rect x="1065" y="284" width="315" height="196" rx="16" fill="white" stroke="#d4dfe9"/>
+<text x="1087" y="324" fill="#14877f" font-family="Arial, sans-serif" font-size="22" font-weight="700">04</text>
+<text x="1087" y="369" fill="#15344d" font-family="Arial, sans-serif" font-size="21" font-weight="700">CLOSE &amp; LEARN</text>
+<text x="1087" y="411" fill="#15344d" font-family="Arial, sans-serif" font-size="19" font-weight="400">Gather feedback</text>
+<text x="1087" y="443" fill="#526b80" font-family="Arial, sans-serif" font-size="19" font-weight="400">Review and improve</text>
+<text x="60" y="532" fill="#526b80" font-family="Arial, sans-serif" font-size="17" font-weight="700">EXCEPTIONS &amp; CONTROLS IN THE ORIGINAL MODEL</text>
+<rect x="60" y="552" width="420" height="104" rx="12" fill="#e6eef5"/>
+<text x="80" y="590" fill="#15344d" font-family="Arial, sans-serif" font-size="21" font-weight="700">Client response windows</text>
+<text x="80" y="626" fill="#526b80" font-family="Arial, sans-serif" font-size="18" font-weight="400">24 hours / two-week follow-up</text>
+<rect x="510" y="552" width="420" height="104" rx="12" fill="#e6eef5"/>
+<text x="530" y="590" fill="#15344d" font-family="Arial, sans-serif" font-size="21" font-weight="700">Critical &amp; specialist handling</text>
+<text x="530" y="626" fill="#526b80" font-family="Arial, sans-serif" font-size="18" font-weight="400">Recovery timeout / review wait</text>
+<rect x="960" y="552" width="420" height="104" rx="12" fill="#e6eef5"/>
+<text x="980" y="590" fill="#15344d" font-family="Arial, sans-serif" font-size="21" font-weight="700">Cancellation &amp; feedback</text>
+<text x="980" y="626" fill="#526b80" font-family="Arial, sans-serif" font-size="18" font-weight="400">Interrupt active work / reminder loop</text>
+<rect x="60" y="700" width="1320" height="113" rx="14" fill="#dcefe9"/>
+<text x="84" y="739" fill="#0e7067" font-family="Arial, sans-serif" font-size="17" font-weight="700">PROPOSED IMPROVEMENTS</text>
+<text x="84" y="779" fill="#164c46" font-family="Arial, sans-serif" font-size="20" font-weight="400">Complete intake  /  Acknowledged escalation  /  Consistent records  /  Bounded feedback  /  Action ownership</text>
+<text x="60" y="846" fill="#526b80" font-family="Arial, sans-serif" font-size="17" font-weight="400">Academic AS-IS artifact + portfolio proposals. Benefits unmeasured. Timer configuration requires review.</text>
+</svg>

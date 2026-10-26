@@ -1,0 +1,203 @@
+{
+  "model": "models/swiftcargo-as-is.bpmn",
+  "sha256": "1db3260296d7f13c195006497ec1901ca9a19827c07a8a320a9d0372bcee6a0b",
+  "bytes": 368984,
+  "exporter": "Signavio Process Editor, http://www.signavio.com",
+  "exporter_version": "26.36.0-20260906220451+53486f4",
+  "counts": {
+    "BPMNDiagram": 9,
+    "BPMNEdge": 186,
+    "BPMNLabel": 214,
+    "BPMNLabelStyle": 18,
+    "BPMNPlane": 9,
+    "BPMNShape": 206,
+    "Bounds": 420,
+    "Font": 18,
+    "adHocSubProcess": 1,
+    "association": 3,
+    "boundaryEvent": 2,
+    "childLaneSet": 3,
+    "collaboration": 1,
+    "dataInput": 1,
+    "dataInputAssociation": 1,
+    "dataInputRefs": 1,
+    "dataObject": 3,
+    "dataObjectReference": 3,
+    "dataOutput": 3,
+    "dataOutputAssociation": 3,
+    "dataOutputRefs": 3,
+    "definitions": 1,
+    "endEvent": 14,
+    "eventBasedGateway": 4,
+    "exclusiveGateway": 20,
+    "extensionElements": 384,
+    "flowNodeRef": 147,
+    "incoming": 155,
+    "inputSet": 4,
+    "inputSetRefs": 4,
+    "intermediateCatchEvent": 14,
+    "intermediateThrowEvent": 9,
+    "ioSpecification": 4,
+    "lane": 38,
+    "laneSet": 9,
+    "messageEventDefinition": 22,
+    "messageFlow": 24,
+    "multiInstanceLoopCharacteristics": 1,
+    "outgoing": 155,
+    "outputSet": 4,
+    "outputSetRefs": 4,
+    "parallelGateway": 4,
+    "participant": 4,
+    "process": 1,
+    "sequenceFlow": 155,
+    "signavioDiagramMetaData": 9,
+    "signavioLabel": 41,
+    "signavioMetaData": 575,
+    "sourceRef": 4,
+    "startEvent": 10,
+    "subProcess": 8,
+    "targetRef": 4,
+    "task": 64,
+    "text": 3,
+    "textAnnotation": 3,
+    "timeDuration": 1,
+    "timerEventDefinition": 6,
+    "waypoint": 429
+  },
+  "diagrams": [
+    {
+      "id": "sid-72adab5e-e8b5-40f0-b12a-be3af3d26b1c",
+      "element": "sid-5c8a2c50-5b2e-4fda-a47a-8dd263c04ced",
+      "name": "Main collaboration",
+      "shapes": 40,
+      "edges": 47
+    },
+    {
+      "id": "sid-7071c395-cc11-474b-a403-b5b96634306b",
+      "element": "sid-843BE30A-6004-4D97-B61E-1E13D5E4B3C0",
+      "name": "Confirm issue details",
+      "shapes": 19,
+      "edges": 17
+    },
+    {
+      "id": "sid-c17f95f2-6171-4bae-9acc-76ff95c9e901",
+      "element": "sid-B88ECDC2-9B89-4D1D-B108-9FE4065FB464",
+      "name": "Conduct monthly review",
+      "shapes": 11,
+      "edges": 9
+    },
+    {
+      "id": "sid-1249773b-d49f-42ea-a676-a92cd07784b6",
+      "element": "sid-E2F77A31-A888-4106-8C74-ED087E6C651A",
+      "name": "Assess and resolve issue",
+      "shapes": 15,
+      "edges": 12
+    },
+    {
+      "id": "sid-a101f540-e1de-4dc0-8897-68beddde8a63",
+      "element": "sid-06779B1B-4014-488A-83B2-F2CC77B54F34",
+      "name": "Resolve standard issue",
+      "shapes": 29,
+      "edges": 24
+    },
+    {
+      "id": "sid-dc88f779-e3b0-4e81-bda3-592022605445",
+      "element": "sid-4112619F-7F51-4777-B392-F22B26BD8989",
+      "name": "Resolve critical issue",
+      "shapes": 16,
+      "edges": 10
+    },
+    {
+      "id": "sid-70b8cedc-e535-4ad1-ae8b-32c22dfbf993",
+      "element": "sid-DBAF81A1-F179-4DBD-8623-9E47428D2994",
+      "name": "Resolve high-priority issue",
+      "shapes": 43,
+      "edges": 39
+    },
+    {
+      "id": "sid-0be4be07-9170-4332-85d5-b3df8039402d",
+      "element": "sid-4A4EC4EE-9D26-435A-940D-9891D55D2F59",
+      "name": "Collect feedback and close out",
+      "shapes": 19,
+      "edges": 17
+    },
+    {
+      "id": "sid-3a47e0c1-9099-42df-aeb1-41c09de8df2a",
+      "element": "sid-0B9887AB-4220-4AD1-8CF8-8D844A15CE29",
+      "name": "Conduct Claims Close-out Meeting",
+      "shapes": 14,
+      "edges": 11
+    }
+  ],
+  "top_level_starts": [
+    {
+      "id": "sid-92C4409D-024F-44FF-976C-4BED35C4E988",
+      "name": "Issue \nnotification received"
+    },
+    {
+      "id": "sid-4B7C8FBB-F189-477A-976B-8B1328DE826C",
+      "name": "Monthly review \nscheduled"
+    }
+  ],
+  "timer_review": [
+    {
+      "event_id": "sid-E5D89B72-836A-4F79-A6CE-CC82C0D69CF9",
+      "event": "24 hours \nelapsed",
+      "expressions": [],
+      "status": "missing_expression"
+    },
+    {
+      "event_id": "sid-18494817-3EE0-4BBB-A9C5-EE0C00EA62A0",
+      "event": "Two-week deadline \nreached\n",
+      "expressions": [],
+      "status": "missing_expression"
+    },
+    {
+      "event_id": "sid-4B7C8FBB-F189-477A-976B-8B1328DE826C",
+      "event": "Monthly review \nscheduled",
+      "expressions": [
+        {
+          "type": "timeDuration",
+          "value": "every month"
+        }
+      ],
+      "status": "descriptive_expression_requires_review"
+    },
+    {
+      "event_id": "sid-C7B7B7E9-1600-477C-8674-672171CBA350",
+      "event": "Three days elapsed",
+      "expressions": [],
+      "status": "missing_expression"
+    },
+    {
+      "event_id": "sid-9E47F7D8-4602-4834-8763-BE54D6DED217",
+      "event": "Five days \nelapsed",
+      "expressions": [],
+      "status": "missing_expression"
+    },
+    {
+      "event_id": "sid-0B85B686-BCD5-4E5C-8D17-807AA0BCED17",
+      "event": "One week \nelapsed",
+      "expressions": [],
+      "status": "missing_expression"
+    }
+  ],
+  "structural_errors": [],
+  "source_findings_requiring_review": [
+    {
+      "kind": "missing_flow_endpoints",
+      "id": "sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B",
+      "name": "Feedback reminder",
+      "missing": [
+        "sourceRef",
+        "targetRef"
+      ]
+    }
+  ],
+  "limitations": [
+    "Checks are limited to XML, IDs, selected reference types and diagram coverage.",
+    "Timer labels and descriptive expressions do not establish executable timer configuration.",
+    "No schema conformance, token-flow soundness, native Signavio check or process execution is claimed.",
+    "Element counts are not a rubric score or a quality certification."
+  ]
+}

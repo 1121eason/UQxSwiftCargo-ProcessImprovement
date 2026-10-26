@@ -1,0 +1,110 @@
+{
+  "renderer": "bpmn-js",
+  "version": "18.9.1",
+  "source": "models/swiftcargo-as-is.bpmn",
+  "nativeSignavioScreenshot": false,
+  "parseWarnings": [
+    "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+  ],
+  "diagrams": [
+    {
+      "id": "sid-72adab5e-e8b5-40f0-b12a-be3af3d26b1c",
+      "element": "sid-5c8a2c50-5b2e-4fda-a47a-8dd263c04ced",
+      "name": "Main collaboration",
+      "slug": "01-main-collaboration",
+      "width": 1594,
+      "height": 1069,
+      "renderWarnings": [
+        "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+      ]
+    },
+    {
+      "id": "sid-7071c395-cc11-474b-a403-b5b96634306b",
+      "element": "sid-843BE30A-6004-4D97-B61E-1E13D5E4B3C0",
+      "name": "Confirm issue details",
+      "slug": "02-confirm-issue-details",
+      "width": 892,
+      "height": 527,
+      "renderWarnings": [
+        "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+      ]
+    },
+    {
+      "id": "sid-c17f95f2-6171-4bae-9acc-76ff95c9e901",
+      "element": "sid-B88ECDC2-9B89-4D1D-B108-9FE4065FB464",
+      "name": "Conduct monthly review",
+      "slug": "03-conduct-monthly-review",
+      "width": 1153,
+      "height": 427,
+      "renderWarnings": [
+        "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+      ]
+    },
+    {
+      "id": "sid-1249773b-d49f-42ea-a676-a92cd07784b6",
+      "element": "sid-E2F77A31-A888-4106-8C74-ED087E6C651A",
+      "name": "Assess and resolve issue",
+      "slug": "04-assess-and-resolve-issue",
+      "width": 979,
+      "height": 411,
+      "renderWarnings": [
+        "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+      ]
+    },
+    {
+      "id": "sid-a101f540-e1de-4dc0-8897-68beddde8a63",
+      "element": "sid-06779B1B-4014-488A-83B2-F2CC77B54F34",
+      "name": "Resolve standard issue",
+      "slug": "05-resolve-standard-issue",
+      "width": 1845,
+      "height": 635,
+      "renderWarnings": [
+        "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+      ]
+    },
+    {
+      "id": "sid-dc88f779-e3b0-4e81-bda3-592022605445",
+      "element": "sid-4112619F-7F51-4777-B392-F22B26BD8989",
+      "name": "Resolve critical issue",
+      "slug": "06-resolve-critical-issue",
+      "width": 1165,
+      "height": 636,
+      "renderWarnings": [
+        "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+      ]
+    },
+    {
+      "id": "sid-70b8cedc-e535-4ad1-ae8b-32c22dfbf993",
+      "element": "sid-DBAF81A1-F179-4DBD-8623-9E47428D2994",
+      "name": "Resolve high-priority issue",
+      "slug": "07-resolve-high-priority-issue",
+      "width": 2203,
+      "height": 1061,
+      "renderWarnings": [
+        "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+      ]
+    },
+    {
+      "id": "sid-0be4be07-9170-4332-85d5-b3df8039402d",
+      "element": "sid-4A4EC4EE-9D26-435A-940D-9891D55D2F59",
+      "name": "Collect feedback and close out",
+      "slug": "08-collect-feedback-and-close-out",
+      "width": 1038,
+      "height": 750,
+      "renderWarnings": [
+        "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+      ]
+    },
+    {
+      "id": "sid-3a47e0c1-9099-42df-aeb1-41c09de8df2a",
+      "element": "sid-0B9887AB-4220-4AD1-8CF8-8D844A15CE29",
+      "name": "Conduct Claims Close-out Meeting",
+      "slug": "09-conduct-claims-close-out-meeting",
+      "width": 783,
+      "height": 796,
+      "renderWarnings": [
+        "<bpmn:MessageFlow id=\"sid-BD9C3D9C-0D35-40CA-9B36-1BAD260FFE0B\" />#source Ref not specified"
+      ]
+    }
+  ]
+}
